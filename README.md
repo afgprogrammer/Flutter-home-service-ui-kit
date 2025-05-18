@@ -31,8 +31,8 @@ To purchase the full version of this UI kit, please visit [Homy UI Kit](https://
  | Page | Page
 |---|---|
 | <img alt="Flutter Home Service Application UI Kit" src="assets/screenshots/flutter-homy-ui-kit-home-screen.png" width="400px" /> | <img alt="Flutter Home Service Application UI Kit" src="assets/screenshots/flutter-homy-ui-kit-appointment-screen.png" width="400px" /> |
-| <img alt="Flutter Home Service Application UI Kit" src="assets/screenshots/flutter-homy-ui-kit-booking-screen.png" width="400px" /> | <img alt="Flutter Home Service Application UI Kit" src="assets/screenshots/flutter-homy-ui-kit-filter-screen.png" width="400px" /> |
-| <img alt="Flutter Home Service Application UI Kit" src="assets/screenshots/flutter-homy-ui-kit-chat-screen.png" width="400px" /> |
+| <img alt="Flutter Home Service Application UI Kit" src="assets/screenshots/flutter-homy-ui-kit-booking-screen.png" width="400px" /> | <img alt="Flutter Home Service Application UI Kit" src="assets/screenshots/flutter-homy-ui-kit-service-screen.png" width="400px" /> |
+| <img alt="Flutter Home Service Application UI Kit" src="assets/screenshots/flutter-homy-ui-kit-worker-screen.png" width="400px" /> |
 
 
 ## Live Demo
